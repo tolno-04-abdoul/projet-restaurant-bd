@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍽️ Système de Gestion de Restaurant
 
 [![Oracle](https://img.shields.io/badge/Oracle-11g+-red.svg)](https://www.oracle.com/database/)
@@ -55,3 +56,7 @@ commandes (1) ───── (0,1) paiements
 ```bash
 git clone https://github.com/votre-compte/projet-restaurant-bd.git
 cd projet-restaurant-bd
+=======
+# projet-restaurant-bd
+projet-restaurant-bd
+>>>>>>> d9d12f6aab55f9242435714820f61dd9836b46e8
